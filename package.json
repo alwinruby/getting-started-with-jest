@@ -1,0 +1,20 @@
+{
+  "name": "getting-started-with-jest",
+  "version": "1.0.0",
+  "description": "Following the tutorial in the [blogpost](https://www.valentinog.com/blog/jest/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alwinruby/getting-started-with-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alwinruby/getting-started-with-jest/issues"
+  },
+  "homepage": "https://github.com/alwinruby/getting-started-with-jest#readme"
+}
