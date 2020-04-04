@@ -4,7 +4,11 @@
   "description": "Following the tutorial in the [blogpost](https://www.valentinog.com/blog/jest/).",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "coverageReporters": ["html"]
   },
   "repository": {
     "type": "git",
